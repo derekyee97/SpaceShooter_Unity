@@ -1,5 +1,5 @@
 # SpaceShooter_Unity
-Space shooter game using downloaded assets from the unity assets store
+Space shooter game using downloaded assets from the unity assets store. Learned to create scripts to interact with in game objects and user input.
 
 Screenshots listed below: 
 ### The picture below represents the starting screen right before gameplay. 
